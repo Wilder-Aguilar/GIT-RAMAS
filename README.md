@@ -21,8 +21,8 @@ Este proyecto es una guía práctica para aprender a usar Git y GitHub con ramas
 Clona el repositorio en tu máquina local:
 
 ```sh
-git clone https://github.com/AlexandraZambrano/git_commit_branch.git
-cd pagina-web-ejemplo
+git clone https://github.com/Wilder-Aguilar/crud-tobasYara.git
+cd crud-tobasYara
 ```
 
 ### 2. Crear una rama para la funcionalidad principal
